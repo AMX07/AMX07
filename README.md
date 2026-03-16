@@ -1,6 +1,6 @@
-# Hey, I'm Ansh Mittal
+# swe by day, open-source ai researcher by night. 
 
-I'm an open-source AI researcher. I like building things from scratch to understand how they work — from search engines to autograd engines to cipher crackers.
+I like building things from scratch to understand how they work.
 
 ## Recent Projects
 
