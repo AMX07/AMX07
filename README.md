@@ -7,7 +7,7 @@ I love building useful software, especially when it pushes the current assumptio
 AI research: various LM transformer model experiments ranging from pre-training, post-training and prompt engineering.
 AI applications: Working on open source coding agents like openai/codex, anomalyco/opencode etc
 
-## a la carte projects:
+## Highlighted projects:
 
 | Project | What it does |
 |---------|-------------|
