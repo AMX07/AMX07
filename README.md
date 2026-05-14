@@ -1,4 +1,4 @@
-```markdown
+
 # About Me
 
 AI Research Engineer @ **Aleph Nott**
@@ -17,4 +17,4 @@ I work on language model research, with a focus on:
 | [Cipher-Cracking](https://github.com/AMX07/Cipher-Cracking) | Decrypts classical ciphers using cryptanalysis techniques |
 | [Upper-body-detection](https://github.com/AMX07/Upper-body-detection) | My intro to ML and computer vision: Haar Cascade classifier for detecting body parts. Reflection after 3 years: deep learning is better. |
 | [Notetaker](https://github.com/AMX07/notetaker) | A multi-agent system that converts MP4 video lectures into comprehensive, high-fidelity Markdown documents |
-```
+
