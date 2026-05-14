@@ -1,9 +1,10 @@
 # About me
 
 AI research Engineer @ Aleph Nott
->optimized pre-training of language models
->Stress testing LLMs to reveal their current limitations via evals
->Researching potenial solutions to current limitations like memory and continual learning.
+optimizing pre-training runs of language models
+Stress testing LLMs to reveal their current limitations via evals
+Researching potenial solutions to current limitations like their horrible ability to play games (poker), memory, continual learning
+
 
 
 
